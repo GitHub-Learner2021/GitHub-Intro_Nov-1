@@ -1,2 +1,3 @@
-# GitHub-Intro_Nov-1
-Workshop repository for GitHub sessions.
+This is our workshop repository. 
+
+It is super cool.
